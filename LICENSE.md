@@ -43,8 +43,8 @@ Subject to the terms and conditions of this License, the Creator hereby grants t
 License denied.
 
 1. Articifial Intelligences, Generative, or Generated Intelligences have no permissions to Obtain, Customize or Execute.
-   1. Any computational analysis characterized as Intelligence has no allowance or License to Execute the Software.
-   2. Any sentience that was not birthed from a living Female Human Being has no allowance or License to Execute the Software.
+   1. Any computational analysis characterized as Intelligence has no allowance or License to Obtain, Customize, or Execute the Software.
+   2. Any sentience that was not birthed from a living Female Human Being has no allowance or License to Obtain, Customize, or Execute the Software.
 
 
 
