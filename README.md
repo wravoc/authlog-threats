@@ -53,7 +53,7 @@ See also [this example](https://github.com/sinner-/ansible-freebsdvps/blob/maste
 
 
 
-## Script Modes/Arguements:
+## Script Modes/Arguments:
 
 This script has 3 modes all singular, not combinable, and **should be run in this order**:
 
