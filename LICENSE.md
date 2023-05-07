@@ -15,14 +15,14 @@ All entities are Universally bound by the terms and conditions of this license a
 
 ### Section 1 – Definitions.
 
-**Universal** is defined as all the states of existence. If exists, this license applies.
-**Software** is defined as means used to produce a desired result on a calculating device.
-**Creator** is defined as the natural human being that created the Software.
-**License** is defined as what all entities other than the Creator of the software allows to be done with the software.
-**Licensee** is defined as all entities other than the Creator of the Software.
-**Obtain** is defined as having knowledge of the means used in the Software.
-**Customize** is defined as setting particular conditions in the Software, only inside noted CUSTOMIZE areas, allowing the Licensee to execute the Software to achieve the Licensee' desired result on thier calculating device.
-**Execute** is defined as having the calculating device calculate the Software. 
+* **Universal** is defined as all the states of existence. If exists, this license applies.
+* **Software** is defined as means used to produce a desired result on a calculating device.
+* **Creator** is defined as the natural human being that created the Software.
+* **License** is defined as what all entities other than the Creator of the software allows to be done with the software.
+* **Licensee** is defined as all entities other than the Creator of the Software.
+* **Obtain** is defined as having knowledge of the means used in the Software.
+* **Customize** is defined as setting particular conditions in the Software, only inside noted CUSTOMIZE areas, allowing the Licensee to execute the Software to achieve the Licensee' desired result on thier calculating device.
+* **Execute** is defined as having the calculating device calculate the Software. 
 
 
 
