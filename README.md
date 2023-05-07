@@ -134,7 +134,7 @@ crontab -e
 
 ## Statement of Security: 
 
-**Risk** - Low
-**Impact** - Low
+* **Risk** - Low
+* **Impact** - Low
 
 This script has no networking, accesses no sockets, changes nor sets permissions, only peforms one file operation per system file per mode, and does not access any system files in [full] "write" mode. It appends only to a single system file and will terminate under any error.
