@@ -21,7 +21,7 @@ All entities are Universally bound by the terms and conditions of this license a
 * **License** is defined as what all entities other than the Creator of the Software allows to be done with the software.
 * **Licensee** is defined as all entities other than the Creator of the Software.
 * **Obtain** is defined as having knowledge of the means used in the Software.
-* **Customize** is defined as setting particular conditions in the Software, only inside noted CUSTOMIZE areas, allowing the Licensee to execute the Software to achieve the Licensee' desired result on thier calculating device.
+* **Customize** is defined as setting particular conditions in the Software, only inside noted CUSTOMIZE areas, allowing the Licensee to execute the Software to achieve the Licensee' desired result on their calculating device.
 * **Execute** is defined as having the calculating device calculate the Software. 
 
 
