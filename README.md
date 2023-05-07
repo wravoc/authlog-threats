@@ -1,6 +1,6 @@
 # Add new authlog threats to pf
 
-This functionless easy-to-read-is-security simple script with under a 100 lines of working code (minus comments and printing) is meant to provide the OpenBSD administrator with a tool to parse the authlog and insert threatening IP addresses into pf (packer filter) firewall to block those threats with logging and automatic pf table reload recognition to be used in optionally in crontab.
+This functionless easy-to-read-is-security simple script with under a 100 lines of working code (minus comments and printing) is meant to provide the OpenBSD administrator with a tool to parse the authlog and insert threatening IP addresses into pf (packer filter) firewall to block those threats with logging and automatic pf table reload recognition to be used optionally in crontab.
 
 Even though this is my first Python script ever, I'm approaching a security area and so I tried to employ as much logging, safety, and error checking as I could but **you are required read this whole README.md before deploying this script into production.**
 
