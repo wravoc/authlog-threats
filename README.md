@@ -28,7 +28,7 @@ Even though this is my first Python script ever, I'm approaching a security area
 
 * An authlog that does not log IP addresses that cannot be either in the whitelist or the blacklist, XOR.
   * e.g. 127.0.0.1, IPv6 Multicast, etc.
-  * 0.0.0.0 is specifically excluded from parsing in the script as this does rarely happen and would be disasterous to either whitelist or blacklist
+  * 0.0.0.0 is specifically excluded from parsing in the script as this does rarely happen and would be disastrous to either whitelist or blacklist
 
 * A pf.conf with at least 2 tables, one a whitelist and one for "badhosts"/"blacklist"
   * **You must have a whitelist with all your own IP Addresses used to authenticate or you will block yourself from logging in**
