@@ -79,9 +79,7 @@ This script has 3 modes all singular, not combinable, and **should be run in thi
 
    1. After writing to, for example,  `/etc/badhosts`  pf mode will reload the pf.conf persist table from file with the new entries. If there have been new insertions into that pf table other than from "badhosts" as in manually running for example `pfctl -t badhosts -T add 162.142.125.0/24` this script will flush those entires if they are not also in the `/etc/badhosts`
 
-      1. Any runtime packet filtering will be flushed when rules are reloaded
-
-      2. Flushing rules does not influence or impact any already existing stateful connections
+      1. Reloading the one table does not influence or impact any already existing stateful connections
    
    2. Uses the command, with example "badhosts"
    
