@@ -32,7 +32,7 @@ Even though this is my first Python script ever, I'm approaching a security area
 
 * A pf.conf with at least 2 tables, one a whitelist and one for "badhosts"/"blacklist"
   * **You must have a whitelist with all your own IP Addresses used to authenticate or you will block yourself from logging in**
-  * pf understands CIDR notation and ranges but the script does not, single IP in whitelist
+  * pf understands CIDR notation and ranges but the script does not, single IPs in whitelist
   * The following is a common pf.conf pattern
 
 ```sh
@@ -77,9 +77,9 @@ This script has 3 modes all singular, not combinable, and **should be run in thi
 
 4. pf `authlog-threats.py pf`
 
-   1. After writing to, for example,  `/etc/badhosts`  pf mode will reload the pf.conf persist table from file with the new entries. If there have been new insertions into that pf table other than from "badhosts" as in manually running for example `pfctl -t badhosts -T add 162.142.125.0/24` this script will flush those entires if they are not also in the `/etc/badhosts`
+   1. After writing to, for example,  `/etc/badhosts`  pf mode will reload the pf.conf persist table from file with the new entries without reloading the entire ruleset. If there have been new insertions into that pf table other than from "badhosts" as in manually running for example `pfctl -t badhosts -T add 162.142.125.0/24` this script will flush those entires if they are not also in the `/etc/badhosts`
 
-      1. Reloading the one table does not influence or impact any already existing stateful connections
+      1. Reloading the one table does not influence or impact other rules or already existing stateful connections
    
    2. Uses the command, with example "badhosts"
    
