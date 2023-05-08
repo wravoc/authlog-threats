@@ -168,7 +168,7 @@ if __name__ == "__main__":
     else:
         print(
             f"{os.linesep}*********************\033[38;5;75m Running \033[0;0m*************************{os.linesep}"
-            f"{Path.cwd()}/authlog-threat.py{os.linesep}"
+            f"{Path.cwd()}/authlog-threats.py{os.linesep}"
             f"*******************************************************{os.linesep}"
         )
     finally:
