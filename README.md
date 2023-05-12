@@ -107,7 +107,6 @@ Licensees are allowed only to customize the shebang for proper execution in your
 ## Execution:
 
 ```sh
-chmod 750 authlog-threats.py
 ./authlog-threats.py backup
 ./authlog-threats.py test
 ./authlog-threats.py
@@ -117,6 +116,20 @@ chmod 750 authlog-threats.py
 
 
 ## Installation:
+
+Since this Software uses shell commands it is required to place it in a secure directory with permissions on the parent the Software resides in to have no permissions for `other` /all/world group to Execute and no network access. 
+
+
+
+###  Software permissions:
+
+`chmod 750 authlog-threats.py`
+
+This ensures that for instance `wheel` can execute it but cannot write, and thus not able to shell inject.
+
+
+
+### Crontab
 
 ```sh
 # Crontab with no output, no email, running at 1AM nigthly
@@ -137,4 +150,14 @@ crontab -e
 * **Risk** - Low
 * **Impact** - Low
 
-This script has no networking, accesses no sockets, changes nor sets permissions, only peforms one file operation per system file per mode, and does not access any system files in [full] "write" mode. It appends only to a single system file and will terminate under any error.
+This script has no networking, accesses no sockets, uses only standard libraries, changes nor sets permissions, only performs one file operation per system file per mode, and does not access any system files in [full] "write" mode. It appends only to a single system file and will terminate under any error.
+
+Although this script is using `subprocess.run(shell=True)` the only possibility of shell injection is from the paths customized by the Licensee or unauthorized access to the filesystem the script resides on in order to perform unauthorized modifications to the commands. 
+
+
+
+## Security Guidelines Included
+
+Every Licensee is encouraged to implement the full range of guidelines in the accompanying [Security Audit]((/docs/SecurityAudit.md)) to make ensure the security of the Software and the System it runs on.
+
+Please follow [these guidelines](/docs/SECURITY.md) should you find a vulnerability not addressed in the audit.

@@ -192,7 +192,7 @@ if __name__ == "__main__":
     for line in authlog_content.splitlines():  
         logline = re.search(ip_pattern, line)
         if logline is not None:
-            if (logline.group(0) not in threat_content) and (logline.group(0) not in whitelist_content) and (logline.group(0) != "0.0.0.0"):
+            if (logline.group(0) not in threat_content) and (logline.group(0) not in whitelist_content) and (logline.group(0) != "0.0.0.0"):   #nosec
                 if test_mode:
                     ip_set.append(logline.group())
                 else:
