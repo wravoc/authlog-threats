@@ -158,6 +158,6 @@ Although this script is using `subprocess.run(shell=True)` the only possibility 
 
 ## Security Guidelines Included
 
-Every Licensee is encouraged to implement the full range of guidelines in the accompanying [Security Audit]((/docs/SecurityAudit.md)) to make ensure the security of the Software and the System it runs on.
+Every Licensee is encouraged to implement the full range of guidelines in the accompanying [Security Audit](/docs/SecurityAudit.md) to make ensure the security of the Software and the System it runs on.
 
 Please follow [these guidelines](/docs/SECURITY.md) should you find a vulnerability not addressed in the audit.
