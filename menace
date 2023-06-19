@@ -1,0 +1,194 @@
+# Author: Elias Christopher Griffin
+# Email: elias@quadhelion.engineering
+#
+# Data compiled by Quadhelion Engineering
+# https://www.quadhelion.engineering
+#
+# LICENSE CC BY-NC-SA 4.0 amended by License-s-m.md
+# LICENSE http://creativecommons.org/licenses/by-nc-sa/4.0/, amended
+# You must keep Author, Attribution Data intact, inside the file
+# DO NOT MODIFY the above data or separate it from the file
+#
+# THIS LIST IS PROVIDED BY QHE "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+# THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+#
+# Menace List
+#
+# Google Safebrowsing, Tracking, Telemetry
+#
+# Cross referenced with Google Docs
+# Cross referenced with https://www.abuseipdb.com/ 
+# Cross referenced with IP INFO 1e100.net search
+# Excludes all Google User Services, incl Email
+# Quadhelion Engineering Direct Knowledge
+#
+34.73.139.159
+34.151.215.28
+34.171.177.35
+74.125.0.0/16
+142.250.0.0/15
+142.250.72.142
+172.217.0.0/16
+172.253.0.0/16
+173.194.0.0/16
+208.81.188.0/22
+216.58.192.0/19
+216.239.32.0/19
+23.236.48.0/20
+23.251.128.0/19
+34.64.0.0/10
+34.128.0.0/10
+35.184.0.0/13
+35.192.0.0/12
+35.208.0.0/12
+35.224.0.0/12
+35.240.0.0/13
+64.9.224.0/19
+64.233.160.0/19
+66.102.0.0/20
+66.249.64.0/19
+70.32.128.0/19
+72.14.192.0/18
+74.114.24.0/21
+74.125.0.0/16
+104.132.0.0/14
+104.154.0.0/15
+104.196.0.0/14
+107.167.160.0/19
+107.178.192.0/18
+108.59.80.0/20
+108.170.192.0/18
+130.211.0.0/16
+136.22.6.0/23
+136.22.64.0/18
+136.22.192.0/18
+136.112.0.0/12
+142.250.0.0/15
+146.148.0.0/17
+162.216.148.0/22
+162.222.176.0/21
+172.102.8.0/21
+172.217.0.0/16
+172.253.0.0/16
+173.194.0.0/16
+173.255.112.0/20
+192.104.160.0/23
+192.158.28.0/22
+192.178.0.0/15
+199.36.152.0/21
+199.88.130.0/24
+199.89.220.0/24
+199.192.112.0/22
+199.223.232.0/21
+207.126.144.0/20
+207.223.160.0/20
+208.68.108.0/22
+216.58.192.0/19
+216.239.32.0/19
+#
+# DigitalOcean
+# Remove if API/Services needed, per city
+# ~27% attack traffic originates from DigitalOcean VMs
+# Quadhelion Engineering Cybersecurity Investigation 6/1/2023
+# https://www.ipqualityscore.com/asn-details/AS14061/digitalocean-llc
+#
+# NL	Amsterdam-Zuidoost, North Holland	DigitalOcean, LLC	Digital Ocean
+5.101.104.0/22
+# GB	London, England	DigitalOcean, LLC	Digitalocean
+5.101.108.0/24
+# NL	Amsterdam, North Holland	DigitalOcean, LLC	Digitalocean
+5.101.109.0/24
+# NL	Amsterdam, North Holland	DigitalOcean, LLC	Digitalocean
+5.101.110.0/24
+# NL	Amsterdam, North Holland	DigitalOcean, LLC	Digitalocean
+5.101.111.0/24
+# NL	Amsterdam-Zuidoost, North Holland	DigitalOcean, LLC	Digital Ocean	
+37.139.0.0/19
+# US	San Francisco, California	DigitalOcean, LLC	Digital Ocean
+45.55.0.0/19
+# US	Clifton, New Jersey	DigitalOcean, LLC	Digital Ocean
+45.55.32.0/19
+# US	Clifton, New Jersey	DigitalOcean, LLC	Digital Ocean
+45.55.64.0/19
+# US	Clifton, New Jersey	DigitalOcean, LLC	Digital Ocean
+45.55.96.0/22
+# US	New York, New York	DigitalOcean, LLC	Digital Ocean
+45.55.100.0/22
+# US	North Bergen, New Jersey	DigitalOcean, LLC	Digital Ocean
+45.55.104.0/22
+# US	San Francisco, California	DigitalOcean, LLC	Digital Ocean
+45.55.108.0/22
+# US	San Francisco, California	DigitalOcean, LLC	Digital Ocean
+45.55.112.0/22
+# US	New York, New York	DigitalOcean, LLC	Digital Ocean
+45.55.116.0/22
+# US	Clifton, New Jersey	DigitalOcean, LLC	Digital Ocean
+45.55.120.0/22
+# US	Clifton, New Jersey	DigitalOcean, LLC	Digital Ocean
+45.55.124.0/22
+# US	Clifton, New Jersey	DigitalOcean, LLC	Digital Ocean
+45.55.128.0/18
+# US	Clifton, New Jersey	DigitalOcean, LLC	Digital Ocean
+45.55.192.0/18
+# GB	London, England	DigitalOcean, LLC	Digital Ocean
+46.101.0.0/18
+# GB	London, England	DigitalOcean, LLC	Digital Ocean
+46.101.64.0/22
+# DE	Frankfurt am Main, Hesse	DigitalOcean, LLC	Digital Ocean
+46.101.68.0/22
+# GB	London, England	DigitalOcean, LLC	Digital Ocean
+46.101.72.0/21
+# GB	Padiham, England	DigitalOcean, LLC	Digital Ocean
+46.101.80.0/20
+# DE	Frankfurt am Main, Hesse	DigitalOcean, LLC	Digital Ocean
+46.101.96.0/19
+# DE	Frankfurt am Main, Hesse	DigitalOcean, LLC	Digital Ocean
+46.101.128.0/17
+# DE	Frankfurt am Main, Hesse	DigitalOcean, LLC	Digital Ocean
+46.101.181.209/32
+# US	Clifton, New Jersey	DigitalOcean, LLC
+64.225.0.0/20
+# US	Clifton, New Jersey	DigitalOcean, LLC
+64.225.16.0/20
+# US	Santa Clara, California	Cogeco Peer 1	Web.com, Inc.
+64.225.32.0/20
+# US	Clifton, New Jersey	Cogeco Peer 1	Web.com, Inc.
+64.225.48.0/20
+# NL	Amsterdam, North Holland	Cogeco Peer 1	Web.com, Inc.
+64.225.64.0/20
+# NL	Amsterdam, North Holland	Cogeco Peer 1	Web.com, Inc.
+64.225.80.0/22
+# DE	Frankfurt am Main, Hesse	Peer 1 Dedicated Hosting	Web.com, Inc.
+64.225.96.0/20
+# US    Santa Clara, California	DigitalOcean, LLC
+64.225.112.0/20
+# IN Doddaballapura, Karnataka
+64.227.128.0/19
+# US Clifton, NJ Digital Ocean, LLC
+104.131.0.0/18
+# SG	Singapore, SG	DigitalOcean, LLC	Digital Ocean, Inc
+2400:6180::/48
+# US	New York, New York	DigitalOcean, LLC	Digital Ocean, Inc
+2400:6180:100::/40
+# US	New York, New York	DigitalOcean, LLC
+2604:a880::/48
+# US	Palo Alto, California	DigitalOcean, LLC
+2604:a880:1::/48
+# US	Palo Alto, California	DigitalOcean, LLC
+2604:a880:2::/48
+# US	Palo Alto, California	DigitalOcean, LLC
+2604:a880:3::/48
+# US	New York, New York	DigitalOcean	DigitalOcean, LLC
+2604:a880:400::/48
+# US	New York, New York	DigitalOcean, LLC
+2604:a880:800::/48
+# US	New York, New York	DigitalOcean, LLC
+2604:a880:cad::/48
+# US	New York, New York	DigitalOcean
+2a03:b0c0::/48
+# US	New York, New York	DigitalOcean, LLC	Digitalocean
+2a03:b0c0:1::/48
+# US	New York, New York	DigitalOcean
+2a03:b0c0:2::/48
+# NL	Amsterdam, North Holland	DigitalOcean
+2a03:b0c0:3::/48
