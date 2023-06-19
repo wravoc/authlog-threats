@@ -152,7 +152,7 @@ QHE has contacted every single known **Vulnerability Seller** and gotten the IP 
 
 
 ### Menace Blocking List
-Quadhelion Engineering's server also captured an enormous amount of scanning from Google's "safebrowing" servers and it was often double the rate of Vulnerability Scanning, nearly but just below DDoS levels. Google has a *rolling assignment address pool* and does not disclose it's "safebrowsing" servers so it was quite a challenge to accumulate this data but much of it is from QHE server logs over a month period and using paid DNS tools searching for 1e100.net. 
+Quadhelion Engineering's server also captured an enormous amount of scanning from Google's "safebrowing" servers and it was often double the rate of Vulnerability Scanning and from multiple IP addresses concurrently. Google has a *rolling assignment address pool* and does not disclose it's "safebrowsing" servers so it was quite a challenge to accumulate this data but much of it is from QHE server logs over a month period and using paid DNS tools searching for 1e100.net. 
 
 After a period of a month blocking Google Safebrowing and checking my website's "Google Status" no ill effects have occurred. You should periodically check your own website against [Google's Website Database](https://transparencyreport.google.com/safebrowsing/search). My approach seems to have worked.
 
