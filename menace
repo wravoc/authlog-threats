@@ -166,6 +166,14 @@
 64.227.128.0/19
 # US Clifton, NJ Digital Ocean, LLC
 104.131.0.0/18
+# North Bergen, NJ
+137.184.16.0/20
+# Toronto, Canada
+138.197.128.0/20
+# Santa Clara, CA, US
+146.190.32.0/19
+# Frankfurt, Germany
+165.227.144.0/20
 # SG	Singapore, SG	DigitalOcean, LLC	Digital Ocean, Inc
 2400:6180::/48
 # US	New York, New York	DigitalOcean, LLC	Digital Ocean, Inc

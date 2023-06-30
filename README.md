@@ -204,3 +204,7 @@ Although this script is using `subprocess.run(shell=True)` the only possibility 
 
 
 
+Firewall icon created by [Nikita Golubev](https://www.flaticon.com/free-icons/firewall)
+
+
+
