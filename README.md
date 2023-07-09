@@ -132,7 +132,7 @@ This list covers the following:
 
 The technical reason is very apparent; performance. Quadhelion Engineering has observed in the wild on it's own server that unwanted, uninformed, unpermitted, ill timed, vulnerability scanning accounts for 10k hits per week and has a noticeable affect on visitor performance. The other half of the technical reason is that this Software repository is based on OpenBSD where vulnerabilities are extremely rare.
 
-QHE has contacted every single known **Vulnerability Seller** and gotten the IP Addresses straight from their representatives where possible. In cases where that was not possible like Internet-Census, AiSpera Criminal IP, Shodan, and ZoomEye, great effort was taken to obtain IP information from everyone corner of awareness, including getting logs from other admins. Brutally painstaking work was done to double verify *every single* IP address and formatted it single column CIDR. There are no known false positives in the list as of June 1. 
+QHE has contacted every single known **Vulnerability Seller** and gotten the IP Addresses straight from their representatives where possible. In cases where that was not possible like Internet-Census, AiSpera Criminal IP, Shodan, and ZoomEye, great effort was taken to obtain IP information from every corner of awareness, including getting logs from other admins. Brutally painstaking work was done to double verify *every single* IP address and formatted it single column CIDR. There are no known false positives in the list as of June 1. 
 
 *During this laborious process two teams stood out for their great attitude, technical excellence, and openness: Shadowserver and Onyphe.*
 
