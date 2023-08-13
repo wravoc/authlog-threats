@@ -1,1 +1,0 @@
-OpenBSD Security script in Python3. Reads authlog for threats, updates pf, blocks scanners.
