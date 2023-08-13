@@ -18,3 +18,7 @@ build/
 .env
 
 settings-test.ini
+
+config
+description
+cloneurl
