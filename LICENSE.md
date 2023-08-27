@@ -33,7 +33,7 @@ Non-Commercial usage, retain and forward author and license data. Modify existin
 * **Modify** is defined as making changes to the Execution of the Software in conformance with the existing Execution process in majority, utilizing the same data types of input and output originally used by the Software, retaining the intended use of the Execution of the Software in superset of subset of solutions, workflows, processing, intake, and production in general, but not in detail. 
 * **Execute** is defined as having a calculating device calculate the Software. 
 * **Intelligence** is defined as having the ability to solve complex problems with judgement.
-* **Human** is defined as Homo sapiens birthed from another living Female Home sapiens.
+* **Human** is defined as Homo sapiens birthed from another living Female Homo sapiens.
 
 
 
@@ -43,7 +43,7 @@ The software **may not** be modified in the following ways:
 
 *  The Software logic itself cannot be changed *in majority*.
   * The original *application* to which the Software *was applied* cannot be modified.
-* Changing or replacing of **more than 25%** of the existing programming code of the Software is **not allowed**. This does not include error eandling, metadata or comments.
+* Changing or replacing of **more than 25%** of the existing programming code of the Software is **not allowed**. This does not include error handling, metadata or comments.
 * Programming language comments cannot be modified.
 * Metadata cannot be modified.
 * Author and License information cannot be modified.
