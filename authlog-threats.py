@@ -11,19 +11,18 @@ Copyright (C) Quadhelion Engineering
 Unauthorized sharing of this proprietary Software script via any 
 medium is strictly prohibited. No Warranty or Liability provided.
 
-QHE License Permissions (QHELP-OCE-NC-NAI)
-Grant only to Obtain, Customize, Execute (OCE-NC-NAI):
+QHE License Permissions (QHELP-OME-NC-ND-HI)
+Grant only to Obtain, Modify, Execute (OME):
 * Obtain from https://bitbucket.org/quadhelion-engineering/authlog-threats/
-* Customize the USER section
 * Execute this script on Non-Commercial Systems via Human Implementation
 """
 
 __author__ = "Elias Christopher Griffin"
 __copyright__ = "Copyright 2023, Quadhelion Engineering"
-__url__ = "https://www.quadhelion.engineering/qhelp-license.html"
-__license__ = "QHELP-OCE-NC-NAI"
+__url__ = "https://www.quadhelion.engineering/qhelp.html"
+__license__ = "QHELP-OME-NC-ND-HI"
 __version__ = "1.0"
-__date__ = "2023/05/05"
+__date__ = "08/28/2023"
 __email__ = "elias@quadhelion.engineering"
 __status__ = "Production"
 
