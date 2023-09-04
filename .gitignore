@@ -1,3 +1,4 @@
+.nova
 venv/
 .venv/
 *.pyc
