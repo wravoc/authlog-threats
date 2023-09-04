@@ -1,6 +1,6 @@
 # LICENSE
 
-[Scanners & Menace List](https://bitbucket.org/quadhelion-engineering/authlog-threats) © 2023 by [Elias Christopher Griffin](https://www.eliasgriffin.com) is licensed under CC BY-NC-SA 4.0. This is only a summary and not the actual license. To view a full copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+[pf.conf, scanners, menace files] © 2023 by [Elias Christopher Griffin](https://www.eliasgriffin.com) is licensed under CC BY-NC-SA 4.0. This is only a summary and not the actual license. To view a full copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ---
 
